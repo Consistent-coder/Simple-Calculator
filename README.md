@@ -4,4 +4,4 @@
 The purpose of this website is to make day to day calculation easy
 
 ## Website
-Check out the website: [Consistent-Coder](https://calcbuddy-easecalculation.netlify.app/)
+Check out the website: [CalcBuddy-easeCalculation](https://calcbuddy-easecalculation.netlify.app/)
